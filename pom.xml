@@ -35,6 +35,18 @@
             <artifactId>junit</artifactId>
             <version>4.12</version>
         </dependency>
+        <dependency>
+        	<groupId>edu.eci.pdsw.samples</groupId>
+        	<artifactId>SPRING_DIP_DI_DEMO</artifactId>
+        	<version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-test</artifactId>
+            <version>3.1.4</version>
+            <scope>test</scope>
+            <type>jar</type>
+        </dependency>
     </dependencies>
 
 </project>
